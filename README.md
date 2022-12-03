@@ -1,6 +1,6 @@
 # Git-GitHub
 
-## JSON
+## JSON [repo](https://github.com/dolcezza-ua/JSON)
 
 **1.** Создать внешний репозиторий c названием JSON. 
 * Клонировать репозиторий JSON на локальный компьютер.
@@ -30,7 +30,7 @@
 
 **8.** Создать файл preferences.json. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
 * `$ cat > preferences.json`
-```
+```json
 {"favorite_movie": "My_dogs",
  "favorite_series": "My_cats",
  "favorite_food": "ice_cream",
@@ -40,7 +40,7 @@
  
 **9.** Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
 * `$ cat > skills.json`
-```
+```json
 {"programming_languages": "Pyton, JavaScript",
  "sniffing_web_traffic": "Charles, Fiddler",
  "database": "Postgres",
@@ -59,7 +59,10 @@
    * `$ git fetch`
    * `$ git pull`
 
-## XML
+------------------------------------------------------
+
+
+## XML [repo](https://github.com/dolcezza-ua/XML)
 **1.** Создать внешний репозиторий c названием XML.
 
 * Клонировать репозиторий XML на локальный компьютер.
@@ -102,7 +105,10 @@
    * `$ git fetch`
    * `$ git pull`
 
-## TXT
+-------------------------------------------------------------
+
+
+## TXT [repo](https://github.com/dolcezza-ua/TXT)
 **1.** Создать внешний репозиторий c названием TXT.
 * Клонировать репозиторий TXT на локальный компьютер.
    * `$ git clone git@github.com:dolcezza-ua/TXT.git`
